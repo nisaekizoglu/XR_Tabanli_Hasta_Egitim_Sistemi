@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EducationScene.unity
+    guid: ff19820a73a220d40930eec9aa0bc195
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 00839fc4ac1ea8b4d962589fed62f8ed
+  - enabled: 1
+    path: Assets/Scenes/MedicationScene.unity
+    guid: dde5574fadd364446b9f362135ba5a6c
+  - enabled: 1
+    path: Assets/Scenes/XRExerciseScene.unity
+    guid: 6f60a087b430ada49bb95da74c3fabae
+  - enabled: 1
+    path: Assets/Scenes/ExerciseHubScene.unity
+    guid: 3761b2e2d78790b40be5b579c06230d1
+  - enabled: 1
+    path: Assets/Scenes/ShoulderExerciseScene.unity
+    guid: ecd7c164a1f32a14ea36d88bb6b21c9f
+  - enabled: 1
+    path: Assets/Scenes/NeckExerciseScene.unity
+    guid: fdb5eb62401c40f4486097eabbca736a
+  - enabled: 1
+    path: Assets/Scenes/BreathExerciseScene.unity
+    guid: eb4f20c1f1e115f4dbbba5d5f67ab425
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: f3d76239adfce2e4fb7915f69ac0f63b, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 96accc6c6b1261741bd8b6c8f2b01417, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7d13a649717f07e44b45925e7d00c8cd, type: 2}
