@@ -33,7 +33,7 @@ LivertAssist, bir tıbbi cihaz veya klinik karar destek sistemi değildir; tamam
 * **THS Değerlendirme Raporu:** Projenin olgunluk seviyesini doğrulayan teknik analiz çıktısı.
 
 ## 💻 Teknolojik Hazırlık Seviyesi (THS) Durumu
-Projemiz şu an güncel TÜBİTAK yazılım kriterlerine göre **THS 4 (Laboratuvar Ortamında Yazılım Doğrulaması)** seviyesindedir. Temel modüller kurgulanmış, AR Kamera entegrasyonu tamamlanmış ve tüm bileşenler entegre prototip (demo) ortamında başarıyla doğrulanmıştır.
+Projemiz şu an güncel TÜBİTAK yazılım kriterlerine göre **THS 8** seviyesindedir. Temel modüller kurgulanmış, AR Kamera entegrasyonu tamamlanmış ve tüm bileşenler entegre prototip (demo) ortamında başarıyla doğrulanmıştır.
 
 ## 👥 Katkıda Bulunanlar
 * **Gülşen Yıldız** - (220541011) 
